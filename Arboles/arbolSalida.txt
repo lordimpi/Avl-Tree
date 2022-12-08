@@ -1,0 +1,28 @@
+--------------------------RECORRIDOS--------------------------
+PreOrden: F A Z
+InOrden: A F Z
+PostOrden: A Z F
+Niveles: F A Z
+Camino euclidiano: F A F Z F
+--------------------------INFO ARBOL--------------------------
+Raiz: F
+Cantidad Nodos: 3
+SubArbol izquierdo(Preorden): A
+SubArbol derecho(Preorden): Z
+Nodos hoja: A Z
+Nodos interiores:
+Nodos Exteriores A F Z
+
+Nodos primos:
+   Nodo A: No tiene primos
+   Nodo F: No tiene primos
+   Nodo Z: No tiene primos
+--------------------------------------------------------------
+-------------------------INFO NIVELES-------------------------
+Nivel: 0
+   Cantidad: 1
+   Nodos del nivel: F
+Nivel: 1
+   Cantidad: 2
+   Nodos del nivel: A Z
+--------------------------------------------------------------
